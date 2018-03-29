@@ -1,0 +1,21 @@
+Map:
+1.	怪
+a.	Monster pit	average lv3 ~ lv 10 * 3 ~ 5
+b.	Daemon pit 	average lv 10 ~ lv 20 * 5 ~8
+c.	Yao Guai pit 	average lv 50 * 1 ~3
+2.	衣
+3.	食
+4.	住
+5.	行
+6.	装备商店
+7.	民宅
+8.	打工
+主人公属性
+1.	Hp
+a.	Initial 500
+b.	From lv 1~5 + 500
+c.	From lv
+2.	Level
+
+3.	Money
+4.	Special item
